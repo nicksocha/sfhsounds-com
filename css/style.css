@@ -1,0 +1,107 @@
+/* * {
+  border: 1px solid gray;
+} */
+
+body,
+html {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: var(--white);
+  font-family: "Sedgwick Ave Display", cursive;
+  font-size: calc(60px + 1.5vw);
+  font-weight: 100;
+  margin: 125px 0;
+  text-align: center;
+}
+h3 {
+  margin: 0;
+}
+html {
+  --black: #000;
+  --blue: #1b4297;
+  --green: #05ae96;
+  --pink: #be128f;
+  --white: #fff;
+  background: var(--blue);
+  font-size: 10px;
+}
+kbd {
+  font-size: 4rem;
+}
+
+.disable-select {
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.keys {
+  display: grid;
+  grid-gap: 40px;
+  grid-template-columns: repeat(auto-fit, 13rem);
+  justify-content: center;
+  text-align: center;
+}
+
+.key {
+  background: #fff;
+  border-radius: 0.5rem;
+  border: 0.4rem solid var(--green);
+  box-shadow: 0px 6px 0px 10px rgba(0, 0, 0, 0.4);
+  color: var(--blue);
+  color: var(--blue);
+  display: grid;
+  font-size: 1.2rem;
+  letter-spacing: 0.1rem;
+  min-height: 70px;
+  padding: 1rem 0.5rem;
+  text-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3);
+  text-transform: uppercase;
+  transition: all 0.07s ease;
+}
+
+.keydown {
+  border-color: var(--pink);
+  box-shadow: 0 0 1rem var(--green);
+  box-shadow: 0px 6px 0px 10px rgba(0, 0, 0, 0.2);
+  transform: scale(1.1);
+}
+
+.social {
+  color: white;
+}
+
+#title {
+  background-image: url("../images/3px-tile.png");
+  border-radius: 16px;
+  border-style: solid;
+  border-width: 7px;
+  padding: 20px;
+  text-shadow: 0px 3px 6px var(--green);
+  transition: 2s;
+}
+
+#title:hover {
+  background-image: url("../images/3px-tile.png");
+  box-shadow: 0px 0px 20px -4px var(--pink);
+  text-shadow: 2px 5px 50px var(--pink);
+}
+
+footer {
+  bottom: 0;
+  color: white;
+  display: grid;
+  font-family: "Londrina Shadow", cursive;
+  font-size: 1.7em;
+  grid-template-columns: 1fr auto;
+  left: 0;
+  padding: 2px 5px;
+  place-items: center center;
+  position: absolute;
+  right: 0;
+}
