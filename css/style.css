@@ -1,36 +1,42 @@
-/* * {
-  border: 1px solid gray;
-} */
-
 body {
   background: var(--blue);
+  display: flex;
+  flex-direction: column;
   font-family: sans-serif;
   margin: 0;
+  min-height: 100%;
   padding: 0;
 }
 
+/* No Scrollbar in Chrome */
+body::-webkit-scrollbar {
+  width: 0 !important;
+}
+
 footer {
-  bottom: 0;
   color: var(--white);
   display: grid;
   font-family: "Londrina Shadow", cursive;
   grid-template-columns: 1fr auto;
   left: 0;
+  margin-top: auto;
   padding: 2px 8px;
   place-items: center center;
-  position: absolute;
   right: 0;
+  text-shadow: 0px 1px 2px var(--green);
 }
 
+/* SFHsounds h1 */
 h1 {
   color: var(--white);
   font-family: "Sedgwick Ave Display", cursive;
-  font-size: calc(60px + 1.5vw);
+  font-size: calc(35px + 2.5vw);
   font-weight: 100;
   margin: 100px 0;
   text-align: center;
 }
 
+/* Targeting Footer Text */
 h3 {
   margin: 0;
 }
@@ -41,10 +47,18 @@ html {
   --green: #05ae96;
   --pink: #be128f;
   --white: #fff;
+  height: 100%;
+  scrollbar-width: none; /*No Scrollbar in Firefox */
 }
 
+/* Key Lettering Size */
 kbd {
   font-size: 3.8rem;
+}
+
+/* Push footer away from main on mobile */
+main {
+  margin-bottom: 100px;
 }
 
 .disable-select {
@@ -55,8 +69,9 @@ kbd {
   user-select: none;
 }
 
+/* Key Styling */
 .key {
-  background: #fff;
+  background: var(--white);
   border-radius: 0.5rem;
   border: 0.3rem solid var(--green);
   box-shadow: 0px 6px 0px 10px rgba(0, 0, 0, 0.4);
@@ -69,24 +84,31 @@ kbd {
   text-transform: uppercase;
   transition: all 0.07s ease;
 }
+
+/* Keydown Styling */
 .keydown {
   border-color: var(--pink);
   box-shadow: 0 0 1rem var(--green);
   box-shadow: 0px 6px 0px 10px rgba(0, 0, 0, 0.2);
   transform: scale(1.1);
 }
+
+/* Key Container */
 .keys {
   display: grid;
   grid-gap: 40px;
   grid-template-columns: repeat(auto-fit, 120px);
   justify-content: center;
+  margin: 0 10px;
   text-align: center;
 }
 
+/* GitHub Icon */
 .social {
-  color: white;
+  color: var(--white);
 }
 
+/* SFHsounds h1 */
 #title {
   background-image: url("../images/3px-tile.png");
   border-radius: 16px;
