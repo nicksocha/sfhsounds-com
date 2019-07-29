@@ -1,7 +1,6 @@
 const keymap = {
   65: 'A',
   67: 'C',
-  // 84: 'T',
   76: 'L',
   82: 'R',
   87: 'W',
@@ -36,6 +35,5 @@ window.onkeydown = event => {
 };
 
 // Automatically update year in footer
-
 const yyyy = new Date().getFullYear();
 document.getElementById('year').innerHTML = `SFHsounds #${yyyy}`;
