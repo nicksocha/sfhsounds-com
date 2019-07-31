@@ -1,6 +1,8 @@
+// http://keycode.info/
 const keymap = {
   65: 'A',
   67: 'C',
+  72: 'H',
   76: 'L',
   82: 'R',
   87: 'W',
