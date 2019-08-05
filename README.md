@@ -16,6 +16,8 @@ The idea came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZ
 
 - Credit to [Sadhguru](https://www.youtube.com/channel/UCcYzLCs3zrQIBVHYA1sK2sw) on [YouTube](https://www.youtube.com/) and [Jaggi Vasudev](https://en.wikipedia.org/wiki/Jaggi_Vasudev) for the "Hello?" [clip](https://youtu.be/vEJOywx9Eq8?t=2791).
 
+- Credit to [Disney](https://www.disney.com/) for [Star Wars: Episode IV - A New Hope](https://en.wikipedia.org/wiki/Star_Wars) and [Mark Hamill](https://en.wikipedia.org/wiki/Mark_Hamill) for the Junk clip.
+
 - Credit to [Carlos Cesar Nardo Junior](https://www.youtube.com/channel/UCOMSXoVD-PhVacaGfefauYw) on [YouTube](https://www.youtube.com/) and [Vince Lombardi](https://en.wikipedia.org/wiki/Vince_Lombardi) for the "What the hell's going on out here?" [clip](https://www.youtube.com/watch?v=4V0TYIO6yv4).
 
 - Credit to [easller](https://www.youtube.com/channel/UCqdU7P1rKJgKABsQfnBOPZw) on [YouTube](https://www.youtube.com/) and [Dwayne Johnson](https://en.wikipedia.org/wiki/Dwayne_Johnson) for the Shine [clip](https://youtu.be/hVMiksEenaM?t=2).
