@@ -24,4 +24,8 @@ The idea came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZ
 
 - Credit to [mellison19590](https://www.youtube.com/channel/UCU-GQmkaqfEaC73Y5avr5Dg) on [YouTube](https://www.youtube.com/) and [Dwayne Johnson](https://en.wikipedia.org/wiki/Dwayne_Johnson) for the Turn [clip](https://www.youtube.com/watch?v=zjB0nQT3PJQ).
 
-* Credit to [Jeffrey Osborne - Topic](https://www.youtube.com/channel/UCtzBnJuMbuHpla0_sx5D06A) on [YouTube](https://www.youtube.com/) and [Jeffrey Osborne](https://en.wikipedia.org/wiki/Jeffrey_Osborne) for the Woo Woo Woo aka "WUE-WUE-WUE" [clip](https://youtu.be/h4q3ARD3O78?t=76).
+- Credit to [The Hit Crew - Topic](https://www.youtube.com/channel/UCxjZHRbBCVMZYfV21SUaSAQ) on [YouTube](https://www.youtube.com/) for the Circus [clip](https://youtu.be/pct1uEhAqBQ?t=11).
+
+- Credit to [Jeffrey Osborne - Topic](https://www.youtube.com/channel/UCtzBnJuMbuHpla0_sx5D06A) on [YouTube](https://www.youtube.com/) and [Jeffrey Osborne](https://en.wikipedia.org/wiki/Jeffrey_Osborne) for the Woo Woo Woo aka "WUE-WUE-WUE" [clip](https://youtu.be/h4q3ARD3O78?t=76).
+
+- Credit to [SFX](https://www.youtube.com/channel/UCRHrSNdSQ0i-x1OYTlJlY0A) on [YouTube](https://www.youtube.com/) for the Scratch [clip](https://www.youtube.com/watch?v=6pQ3L9t25GI).

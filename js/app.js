@@ -8,7 +8,9 @@ const keymap = {
   76: 'L',
   83: 'S',
   84: 'T',
+  86: 'V',
   87: 'W',
+  88: 'X',
 };
 
 const keys = document.querySelectorAll('.key');
