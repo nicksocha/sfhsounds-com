@@ -94,7 +94,7 @@ main {
   grid-gap: 40px;
   grid-template-columns: repeat(auto-fit, 120px);
   justify-content: center;
-  margin: 0 10px;
+  margin: 0 100px;
   text-align: center;
 }
 
@@ -133,12 +133,16 @@ main {
     transform: rotate(10deg);
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 479px) {
   .github-corner:hover .octo-arm {
     animation: none;
   }
   .github-corner .octo-arm {
     animation: octocat-wave 560ms ease-in-out;
+  }
+  /* Key Container Margin */
+  .keys {
+    margin: 0 20px;
   }
 }
 /* endGitHub Octocat */

@@ -24,6 +24,8 @@ The idea came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZ
 
 - Credit to [mellison19590](https://www.youtube.com/channel/UCU-GQmkaqfEaC73Y5avr5Dg) on [YouTube](https://www.youtube.com/) and [Dwayne Johnson](https://en.wikipedia.org/wiki/Dwayne_Johnson) for the Turn [clip](https://www.youtube.com/watch?v=zjB0nQT3PJQ).
 
+- Credit to [OberSports](https://www.youtube.com/channel/UCKPgypMbabHncaWm4CAYAqQ) on [YouTube](https://www.youtube.com/) and [Bob Uecker](https://en.wikipedia.org/wiki/Bob_Uecker) for the Uecker [clip](https://youtu.be/lkxOz1BgYDU?t=9).
+
 - Credit to [The Hit Crew - Topic](https://www.youtube.com/channel/UCxjZHRbBCVMZYfV21SUaSAQ) on [YouTube](https://www.youtube.com/) for the Circus [clip](https://youtu.be/pct1uEhAqBQ?t=11).
 
 - Credit to [Jeffrey Osborne - Topic](https://www.youtube.com/channel/UCtzBnJuMbuHpla0_sx5D06A) on [YouTube](https://www.youtube.com/) and [Jeffrey Osborne](https://en.wikipedia.org/wiki/Jeffrey_Osborne) for the Woo Woo Woo aka "WUE-WUE-WUE" [clip](https://youtu.be/h4q3ARD3O78?t=76).
