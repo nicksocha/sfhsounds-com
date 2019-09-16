@@ -1,3 +1,13 @@
+/* Hides Typeform */
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: white;
+  cursor: default;
+  text-decoration: none;
+}
+
 body {
   background: var(--blue);
   display: flex;
