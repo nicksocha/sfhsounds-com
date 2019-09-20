@@ -22,6 +22,8 @@ The idea came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZ
 
 - Credit to [Carlos Cesar Nardo Junior](https://www.youtube.com/channel/UCOMSXoVD-PhVacaGfefauYw) on [YouTube](https://www.youtube.com/) and [Vince Lombardi](https://en.wikipedia.org/wiki/Vince_Lombardi) for the "What the hell's going on out here?" [clip](https://www.youtube.com/watch?v=4V0TYIO6yv4).
 
+- Credit to [Gantris](https://www.youtube.com/channel/UCIg4UhdCyBM_kQTzJ6wH1ig) on [YouTube](https://www.youtube.com/) and [Wayne Knight](https://en.wikipedia.org/wiki/Wayne_Knight) for the "Ah Ah Ah! You didn't say the magic word!" [clip](https://www.youtube.com/watch?v=RVSEaTWM3kU).
+
 - Credit to [easller](https://www.youtube.com/channel/UCqdU7P1rKJgKABsQfnBOPZw) on [YouTube](https://www.youtube.com/) and [Dwayne Johnson](https://en.wikipedia.org/wiki/Dwayne_Johnson) for the Shine [clip](https://youtu.be/hVMiksEenaM?t=2).
 
 - Credit to [mellison19590](https://www.youtube.com/channel/UCU-GQmkaqfEaC73Y5avr5Dg) on [YouTube](https://www.youtube.com/) and [Dwayne Johnson](https://en.wikipedia.org/wiki/Dwayne_Johnson) for the Turn [clip](https://www.youtube.com/watch?v=zjB0nQT3PJQ).
