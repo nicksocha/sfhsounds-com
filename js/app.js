@@ -4,16 +4,21 @@ const keymap = {
   67: 'C',
   68: 'D',
   69: 'E',
+  70: 'F',
+  71: 'G',
   72: 'H',
   74: 'J',
   76: 'L',
   77: 'M',
+  78: 'N',
+  82: 'R',
   83: 'S',
   84: 'T',
   85: 'U',
   86: 'V',
   87: 'W',
   88: 'X',
+  90: 'Z',
 };
 
 const keys = document.querySelectorAll('.key');
