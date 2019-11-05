@@ -1,6 +1,7 @@
 // http://keycode.info/
 const keymap = {
   65: 'A',
+  66: 'B',
   67: 'C',
   68: 'D',
   69: 'E',

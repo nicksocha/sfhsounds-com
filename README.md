@@ -10,9 +10,11 @@ The idea came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZ
 
 - (A) Credit to [Summer Crickets Chirping Sound](http://soundbible.com/295-Summer-Crickets-Chirping.html) over at [SoundBible.com](http://soundbible.com/) for the "Crickets" sound effect.
 
+- (B) Credit to [Ex Hitman](https://www.youtube.com/channel/UCO3Fjw1TKs_1LdyAVIWSMFg) on [YouTube](https://www.youtube.com/) and [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone) for the "Double Whammy" [clip](https://youtu.be/2NsjFfdQKLU?t=101).
+
 - (C) Credit to [Kendrith Davis](https://www.youtube.com/channel/UC3S1P9zHTXUb7MBxkho5s_w) on [YouTube](https://www.youtube.com/) and [Martin Lawrence](https://en.wikipedia.org/wiki/Martin_Lawrence) for the Silence aka "Cylance" [clip](https://www.youtube.com/watch?v=jrw_zRBWeZA).
 
-- (D) Credit to [Ex Hitman](https://www.youtube.com/channel/UCO3Fjw1TKs_1LdyAVIWSMFg) on [YouTube](https://www.youtube.com/) and [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone) for the "Double" [clip](https://youtu.be/2NsjFfdQKLU?t=101).
+- (D) Credit to [Carlos Arellano](https://www.youtube.com/channel/UCqqPsEDq3uURqulMW8cXxsw) on [YouTube](https://www.youtube.com/) and [Jeff Daniels](https://en.wikipedia.org/wiki/Jeff_Daniels) for the "Dumb Dumber" [clip](https://youtu.be/UnkefjCES-4?t=47).
 
 - (E) Credit to [Paramount Pictures](https://en.wikipedia.org/wiki/Paramount_Pictures) and [David Spade](https://en.wikipedia.org/wiki/David_Spade) in the movie [Tommy Boy](https://en.wikipedia.org/wiki/Tommy_Boy) for the "Earth?" clip.
 
