@@ -1,5 +1,6 @@
 // http://keycode.info/
 const keymap = {
+  49: '1',
   65: 'A',
   66: 'B',
   67: 'C',
@@ -8,11 +9,15 @@ const keymap = {
   70: 'F',
   71: 'G',
   72: 'H',
+  73: 'I',
   74: 'J',
   75: 'K',
   76: 'L',
   77: 'M',
   78: 'N',
+  79: 'O',
+  80: 'P',
+  81: 'Q',
   82: 'R',
   83: 'S',
   84: 'T',
@@ -39,7 +44,6 @@ function clickHandler(key) {
 function play(key) {
   const keyElement = document.querySelector(`.key[id="${key}"]`);
   const audioElement = document.querySelector(`audio[data-key="${key}"]`);
-
   keyElement.classList.add('keydown');
   audioElement.currentTime = 0;
   audioElement.play();

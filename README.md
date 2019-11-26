@@ -8,6 +8,8 @@ The idea came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZ
 
 - Credit to [@ShannonB](https://codepen.io/ShannonB/) on [CodePen](https://codepen.io/) as I used https://codepen.io/ShannonB/pen/EWPXWj as a starting point.
 
+- (1) Credit to [Star Wars Clips](https://www.youtube.com/channel/UCIBv9_sjcQIfb7h2c-fdIpQ) on [YouTube](https://www.youtube.com/) and [Alec Guinness](https://en.wikipedia.org/wiki/Alec_Guinness) for the "Droids" [clip](https://youtu.be/ihyjXd2C-E8?t=70).
+
 - (A) Credit to [Summer Crickets Chirping Sound](http://soundbible.com/295-Summer-Crickets-Chirping.html) over at [SoundBible.com](http://soundbible.com/) for the "Crickets" sound effect.
 
 - (B) Credit to [Ex Hitman](https://www.youtube.com/channel/UCO3Fjw1TKs_1LdyAVIWSMFg) on [YouTube](https://www.youtube.com/) and [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone) for the "Double Whammy" [clip](https://youtu.be/2NsjFfdQKLU?t=101).
@@ -24,6 +26,8 @@ The idea came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZ
 
 - (H) Credit to [Sadhguru](https://www.youtube.com/channel/UCcYzLCs3zrQIBVHYA1sK2sw) on [YouTube](https://www.youtube.com/) and [Jaggi Vasudev](https://en.wikipedia.org/wiki/Jaggi_Vasudev) for the "Hello?" [clip](https://youtu.be/vEJOywx9Eq8?t=2791).
 
+- (I) Credit to [JohnWilliamsVEVO](https://www.youtube.com/channel/UCKweR9XAI8wDuXdV7uAfvNw) on [YouTube](https://www.youtube.com/) and [John Williams](https://en.wikipedia.org/wiki/John_Williams) for the "Imperial" [clip](https://youtu.be/u7HF4JG1pOg?t=10).
+
 - (J) Credit to [Disney](https://www.disney.com/) for [Star Wars: Episode IV - A New Hope](https://en.wikipedia.org/wiki/Star_Wars) and [Mark Hamill](https://en.wikipedia.org/wiki/Mark_Hamill) for the "Junk" clip.
 
 - (K) Credit to [Gantris](https://www.youtube.com/channel/UCIg4UhdCyBM_kQTzJ6wH1ig) on [YouTube](https://www.youtube.com/) and [Wayne Knight](https://en.wikipedia.org/wiki/Wayne_Knight) for the "Magic Word" [clip](https://www.youtube.com/watch?v=RVSEaTWM3kU).
@@ -33,6 +37,12 @@ The idea came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZ
 - (M) Credit to [BlittleMcNilsen](https://www.youtube.com/channel/UCbRbHZdQSocaoCwtyjC1v5Q) on [YouTube](https://www.youtube.com/) for the "Mario Dies" [clip](https://www.youtube.com/watch?v=M6KOEMJKdEI).
 
 - (N) Credit to [Em0mAsT3R](https://www.youtube.com/channel/UCEd-HxDnvPCgj8wT7bd5yaA) on [YouTube](https://www.youtube.com/) and [Mike Myers](https://en.wikipedia.org/wiki/Mike_Myers) for the "Number 2" [clip](https://youtu.be/PBtC_eKVVEE?t=104).
+
+- (O) Credit to [Josh Streeter](https://www.youtube.com/channel/UCTpyPReWsRoiFiU7RPKJ8cw) on [YouTube](https://www.youtube.com/) for the "Sad Trombone" [clip](https://www.youtube.com/watch?v=yJxCdh1Ps48).
+
+- (P) Credit to [Elwood Edwards](https://en.wikipedia.org/wiki/Elwood_Edwards) for the "Mail" clip.
+
+- (Q) Credit to [oldiesdude8807](https://www.youtube.com/channel/UCdG18xL52oGIEKzbj-nrWXQ) on [YouTube](https://www.youtube.com/) and [The Coasters](https://en.wikipedia.org/wiki/The_Coasters) for the "Yakety Yak" [clip](https://youtu.be/-WfDYssJMqs?t=45).
 
 - (R) Credit to [Disney](https://www.disney.com/) for [Star Wars: Episode I - The Phantom Menace](https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_–_The_Phantom_Menace) and the [B1 battle droid](https://www.starwars.com/databank/battle-droid) for the "Roger Roger" clip.
 
