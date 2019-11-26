@@ -10,6 +10,12 @@ The idea came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZ
 
 - (1) Credit to [Star Wars Clips](https://www.youtube.com/channel/UCIBv9_sjcQIfb7h2c-fdIpQ) on [YouTube](https://www.youtube.com/) and [Alec Guinness](https://en.wikipedia.org/wiki/Alec_Guinness) for the "Droids" [clip](https://youtu.be/ihyjXd2C-E8?t=70).
 
+- (2) Credit to [Lil Jon](https://en.wikipedia.org/wiki/Lil_Jon) for the "What!" clip.
+
+- (3) Credit to [Lil Jon](https://en.wikipedia.org/wiki/Lil_Jon) for the "Yeah" clip.
+
+- (4) Credit to [Lil Jon](https://en.wikipedia.org/wiki/Lil_Jon) for the "Okay" clip.
+
 - (A) Credit to [Summer Crickets Chirping Sound](http://soundbible.com/295-Summer-Crickets-Chirping.html) over at [SoundBible.com](http://soundbible.com/) for the "Crickets" sound effect.
 
 - (B) Credit to [Ex Hitman](https://www.youtube.com/channel/UCO3Fjw1TKs_1LdyAVIWSMFg) on [YouTube](https://www.youtube.com/) and [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone) for the "Double Whammy" [clip](https://youtu.be/2NsjFfdQKLU?t=101).
