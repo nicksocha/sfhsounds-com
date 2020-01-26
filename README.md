@@ -14,7 +14,17 @@ The idea came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZ
 
 - (3) Credit to [Lil Jon](https://en.wikipedia.org/wiki/Lil_Jon) for the "Yeah" clip.
 
-- (4) Credit to [Lil Jon](https://en.wikipedia.org/wiki/Lil_Jon) for the "Okay" clip.
+* (4) Credit to [Lil Jon](https://en.wikipedia.org/wiki/Lil_Jon) for the "Okay" clip.
+
+<!-- prettier-ignore-start -->
+
+- (5) Credit to [Will Smith](https://en.wikipedia.org/wiki/Will_Smith) in [Bad Boys](https://en.wikipedia.org/wiki/Bad_Boys_(1995_film)) for the "Always Sometimes" clip.
+
+<!-- prettier-ignore-end -->
+
+- (6) Credit to [Movieclips](https://www.youtube.com/channel/UC3gNmTGu-TTbFPpfSs5kNkg) on [YouTube](https://www.youtube.com/) and [Chris Tucker](https://en.wikipedia.org/wiki/Chris_Tucker) for the "Understand" [Clip](https://youtu.be/0Rl9Cxc7uZA?t=25).
+
+- (7) Credit to [Matt Laufenberg](https://www.youtube.com/channel/UCfxdHuwHM7BNjaF3pmEwzkQ) on [YouTube](https://www.youtube.com/) and [Arsenio Hall](https://en.wikipedia.org/wiki/Arsenio_Hall) for the "Randy Watson" [Clip](https://youtu.be/LRZ4FEuAEZA?t=100).
 
 - (A) Credit to [Summer Crickets Chirping Sound](http://soundbible.com/295-Summer-Crickets-Chirping.html) over at [SoundBible.com](http://soundbible.com/) for the "Crickets" sound effect.
 
@@ -62,8 +72,11 @@ The idea came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZ
 
 - (W) Credit to [Jeffrey Osborne - Topic](https://www.youtube.com/channel/UCtzBnJuMbuHpla0_sx5D06A) on [YouTube](https://www.youtube.com/) and [Jeffrey Osborne](https://en.wikipedia.org/wiki/Jeffrey_Osborne) for the Woo Woo Woo aka "WUE-WUE-WUE" [clip](https://youtu.be/h4q3ARD3O78?t=76).
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+
 - (X) Credit to [SFX](https://www.youtube.com/channel/UCRHrSNdSQ0i-x1OYTlJlY0A) on [YouTube](https://www.youtube.com/) for the "Scratch" [clip](https://www.youtube.com/watch?v=6pQ3L9t25GI).
+
+<!-- prettier-ignore-end -->
 
 - (Y) Credit to [THESSALONIAN31N](https://www.youtube.com/channel/UC3Kou_6XjdJHE3oyXD0vA8w) on [YouTube](https://www.youtube.com/) and [Bernie Mac](https://en.wikipedia.org/wiki/Bernie_Mac) for the "Yes" [clip](https://www.youtube.com/watch?v=Lfxo4Ls9fbc&feature=youtu.be&t=23).
 
