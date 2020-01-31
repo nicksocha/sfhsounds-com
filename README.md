@@ -28,6 +28,8 @@ The idea came from [JavaScript Drum Kit](https://www.youtube.com/watch?v=VuN8qwZ
 
 - (8) Credit to [Flywheel](https://getflywheel.com/) for the "Site Down" [Clip](https://getflywheel.com/white-label/?wvideo=e96dfk0xyo).
 
+- (9) Credit to [The Paramount Vault](https://www.youtube.com/channel/UCzMVH2jEyEwXPBvyht8xQNw) on [YouTube](https://www.youtube.com/) and [David Spade](https://en.wikipedia.org/wiki/David_Spade) for the "Niner" [Clip](https://youtu.be/9Ebfc1KJuO4?t=32).
+
 - (A) Credit to [Summer Crickets Chirping Sound](http://soundbible.com/295-Summer-Crickets-Chirping.html) over at [SoundBible.com](http://soundbible.com/) for the "Crickets" sound effect.
 
 - (B) Credit to [Ex Hitman](https://www.youtube.com/channel/UCO3Fjw1TKs_1LdyAVIWSMFg) on [YouTube](https://www.youtube.com/) and [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone) for the "Double Whammy" [clip](https://youtu.be/2NsjFfdQKLU?t=101).
